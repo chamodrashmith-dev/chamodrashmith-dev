@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Chamod Rashmith!
 
-<!--
-**chamodrashmith-dev/chamodrashmith-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Student** exploring the intersection of programming, mathematics, and physics.
+- Striving for professional excellence and innovation in technology.
+
+---
+
+## 💻 Languages & Frameworks
+
+- **Python** (all major libraries)
+- **Dart** & **Flutter**
+- **C++**
+- **Kotlin**
+
+---
+
+## 🔬 Interests
+
+- Artificial Intelligence (AI)
+- Open Source
+- Medical Technology
+
+---
+
+## 📚 Currently Learning
+
+- Advanced programming concepts
+- Mathematical modeling
+- Physics simulations
+
+---
+
+## 🌱 How I Work
+
+- Focused on open-source contributions
+- Collaborating on AI and medical tech projects
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [chamodrashmith-dev](https://github.com/chamodrashmith-dev)
+
+---
+
+> “Code, learn, and innovate to make a difference.”
