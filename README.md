@@ -4,47 +4,72 @@
 
 ## 🚀 About Me
 
-- **Student** exploring the intersection of programming, mathematics, and physics.
-- Striving for professional excellence and innovation in technology.
+I am a **dedicated student** and aspiring professional with a passion for solving complex problems at the intersection of **programming, mathematics, and physics**. I strive for excellence in both academic and project-based environments, continuously seeking opportunities to innovate and contribute to the tech community.
 
 ---
 
-## 💻 Languages & Frameworks
+## 💼 Professional Focus & Skills
 
-- **Python** (all major libraries)
-- **Dart** & **Flutter**
-- **C++**
-- **Kotlin**
+- **Software Engineering:**  
+  Experienced in designing, developing, and testing scalable applications using modern programming languages and frameworks.
+
+- **AI & Machine Learning:**  
+  Enthusiast in artificial intelligence, with hands-on experience applying ML algorithms and building data-driven solutions.
+
+- **Mathematical & Physical Modeling:**  
+  Skilled in mathematical modeling and simulation, bridging theory and practical implementation.
+
+- **Open Source:**  
+  Active contributor to open-source projects; passionate about collaboration and community-driven development.
+
+---
+
+## 🛠️ Technologies & Frameworks
+
+- **Python:**  
+  Proficient with major libraries including NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, and more.
+
+- **Dart & Flutter:**  
+  Developing cross-platform mobile applications with beautiful UI/UX.
+
+- **C++:**  
+  Building high-performance systems and algorithms.
+
+- **Kotlin:**  
+  Creating modern Android applications with attention to robust architecture and design.
 
 ---
 
 ## 🔬 Interests
 
-- Artificial Intelligence (AI)
-- Open Source
-- Medical Technology
+- Artificial Intelligence & Deep Learning
+- Open Source Development
+- Medical Technology & Digital Health
+- Computational Physics & Mathematics
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Goals
 
-- Advanced programming concepts
-- Mathematical modeling
-- Physics simulations
-
----
-
-## 🌱 How I Work
-
-- Focused on open-source contributions
-- Collaborating on AI and medical tech projects
+- Advance professional expertise in AI and medical technology.
+- Engage in impactful open-source collaborations.
+- Deepen understanding of mathematical and physical modeling for real-world applications.
 
 ---
 
-## 📫 Connect with Me
+## 🌱 Learning & Development
 
-- GitHub: [chamodrashmith-dev](https://github.com/chamodrashmith-dev)
+- Mastering advanced programming paradigms.
+- Exploring cutting-edge AI and ML research.
+- Applying mathematics and physics to computational challenges.
 
 ---
 
-> “Code, learn, and innovate to make a difference.”
+## 📫 Let's Connect
+
+- **GitHub:** [chamodrashmith-dev](https://github.com/chamodrashmith-dev)
+  
+
+---
+
+> “Code with curiosity, learn relentlessly, and innovate for a better tomorrow.”
