@@ -1,75 +1,75 @@
 # 👋 Hi, I'm Chamod Rashmith!
 
+### ⚛️ Physical Science Undergraduate | 🇱🇰 University of Kelaniya
+### 🩺 Aspiring Medical Physicist & Computational Researcher
+
 ---
 
 ## 🚀 About Me
 
-I am a **dedicated student** and aspiring professional with a passion for solving complex problems at the intersection of **programming, mathematics, and physics**. I strive for excellence in both academic and project-based environments, continuously seeking opportunities to innovate and contribute to the tech community.
+I am a **Physical Science Undergraduate** at the University of Kelaniya, Sri Lanka, specializing in **Physics, Pure Mathematics, and Applied Mathematics**.
+
+My mission is to bridge the gap between **theoretical physics** and **clinical application**. I am passionate about using high-performance computing and Artificial Intelligence to solve complex medical problems, innovate in clinical physics, and ultimately contribute to saving lives globally.
+
+I combine a rigorous academic background with a modern "builder's mindset"—developing software solutions that are mathematically sound and scientifically impactful.
 
 ---
 
-## 💼 Professional Focus & Skills
+## 🔬 Research & Professional Focus
 
-- **Software Engineering:**  
-  Experienced in designing, developing, and testing scalable applications using modern programming languages and frameworks.
+* **🏥 Medical Physics & Healthcare AI:**
+    Modeling biological systems, analyzing medical imaging data, and applying Deep Learning to diagnostic challenges.
 
-- **AI & Machine Learning:**  
-  Enthusiast in artificial intelligence, with hands-on experience applying ML algorithms and building data-driven solutions.
+* **🧮 Scientific Computing & Simulation:**
+    Solving complex mathematical equations and physical systems using numerical analysis and algorithms.
 
-- **Mathematical & Physical Modeling:**  
-  Skilled in mathematical modeling and simulation, bridging theory and practical implementation.
-
-- **Open Source:**  
-  Active contributor to open-source projects; passionate about collaboration and community-driven development.
+* **💻 Software Engineering:**
+    Building robust tools for research and cross-platform applications for digital health solutions.
 
 ---
 
-## 🛠️ Technologies & Frameworks
+## 🛠️ The Scientific Tech Stack
 
-- **Python:**  
-  Proficient with major libraries including NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, and more.
+I follow structured, long-term mastery plans (200-500 days) to achieve deep expertise in these tools:
 
-- **Dart & Flutter:**  
-  Developing cross-platform mobile applications with beautiful UI/UX.
+### **Scientific Computing & Analysis**
+* **Python:** (NumPy, Pandas, SciPy, PyTorch, TensorFlow) – *Primary engine for AI/ML & Data Science.*
+* **MATLAB:** – *Signal processing, mathematical modeling, and simulation.*
+* **Julia:** – *High-performance numerical computing.*
+* **C++:** – *Performance-critical algorithms and systems programming.*
 
-- **C++:**  
-  Building high-performance systems and algorithms.
-
-- **Kotlin:**  
-  Creating modern Android applications with attention to robust architecture and design.
-
----
-
-## 🔬 Interests
-
-- Artificial Intelligence & Deep Learning
-- Open Source Development
-- Medical Technology & Digital Health
-- Computational Physics & Mathematics
+### **Application Development**
+* **Dart & Flutter:** – *Cross-platform mobile apps (UI/UX focus).*
+* **Next.js / TypeScript:** – *Modern web solutions and portfolios.*
+* **Kotlin:** – *Android development.*
 
 ---
 
-## 🎯 Current Goals
+## 🧠 Current Learning Initiatives (2025)
 
-- Advance professional expertise in AI and medical technology.
-- Engage in impactful open-source collaborations.
-- Deepen understanding of mathematical and physical modeling for real-world applications.
-
----
-
-## 🌱 Learning & Development
-
-- Mastering advanced programming paradigms.
-- Exploring cutting-edge AI and ML research.
-- Applying mathematics and physics to computational challenges.
+* **Medical Physics:** Full theoretical mastery + Research workflow integration.
+* **Mathematics:** Advanced Calculus, Linear Algebra, and Statistics for ML.
+* **Deep Learning:** Building DNA/RNA classification models and Medical Image Analysis tools.
+* **Bio-Informatics:** Human Biology for Physicists.
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Future Vision
 
-- **GitHub:** [chamodrashmith-dev](https://github.com/chamodrashmith-dev)
-  
+1.  Complete **BSc in Physical Science** with research excellence.
+2.  Pursue **MSc in Medical Physics**.
+3.  Contribute to **Open Source Scientific Libraries**.
+4.  Innovate in **Clinical Physics** to improve patient outcomes.
 
 ---
 
-> “Code with curiosity, learn relentlessly, and innovate for a better tomorrow.”
+## 📫 Let's Connect & Collaborate
+
+* **GitHub:** [chamodrashmith-dev](https://github.com/chamodrashmith-dev)
+* **Location:** Sri Lanka 🇱🇰
+
+---
+
+> "Science is the tool. Code is the medium. Saving lives is the goal."
+>
+> — **Chamod Rashmith**
