@@ -41,7 +41,7 @@ I follow structured, long-term mastery plans (200-500 days) to achieve deep expe
 ### **Application Development**
 * **Dart & Flutter:** – *Cross-platform mobile apps (UI/UX focus).*
 * **Next.js / TypeScript:** – *Modern web solutions and portfolios.*
-* **Kotlin:** – *Android development.*
+
 
 ---
 
